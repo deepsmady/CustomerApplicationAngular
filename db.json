@@ -1,0 +1,76 @@
+{
+  "Customers": [
+    {
+      "id": 1,
+      "CustomerCode": "1001",
+      "CustomerName": "Deeps",
+      "CustomerAmount": "101.23"
+    },
+    {
+      "CustomerCode": "3451",
+      "CustomerName": "weet",
+      "CustomerAmount": "456",
+      "id": 2
+    },
+    {
+      "CustomerCode": "3200",
+      "CustomerName": "JayT",
+      "CustomerAmount": "1099",
+      "id": 3
+    },
+    {
+      "CustomerCode": "7789",
+      "CustomerName": "varun",
+      "CustomerAmount": "3400000",
+      "id": 4
+    },
+    {
+      "CustomerCode": "4455",
+      "CustomerName": "sachin",
+      "CustomerAmount": "3200000",
+      "id": 5
+    },
+    {
+      "CustomerCode": "4455",
+      "CustomerName": "sachin",
+      "CustomerAmount": "3200000",
+      "id": 6
+    },
+    {
+      "CustomerCode": "4455",
+      "CustomerName": "sachin",
+      "CustomerAmount": "3200000",
+      "id": 7
+    },
+    {
+      "CustomerCode": "3478",
+      "CustomerName": "Siva",
+      "CustomerAmount": "3300000",
+      "id": 8
+    },
+    {
+      "CustomerCode": "3478",
+      "CustomerName": "Siva",
+      "CustomerAmount": "3300000",
+      "id": 9
+    },
+    {
+      "CustomerCode": "3478",
+      "CustomerName": "Siva",
+      "CustomerAmount": "3300000",
+      "id": 10
+    },
+    {
+      "CustomerCode": "1234",
+      "CustomerName": "tttt",
+      "CustomerAmount": "5567",
+      "id": 11
+    },
+    {
+      "CustomerCode": "5555",
+      "CustomerName": "gggg",
+      "CustomerAmount": "190000",
+      "id": 12
+    }
+  ]
+}

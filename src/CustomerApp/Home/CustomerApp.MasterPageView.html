@@ -1,0 +1,21 @@
+<table style="background-color:lightblue" bordercolor="blue">
+    <tr  align="center">
+        <td colspan="2"><img src="https://www.gstatic.com/webp/gallery/1.webp"/><br></td>
+    </tr>
+    <tr bordercolor="red">
+        <td  valign="top">
+            <a [routerLink]="['Home']">Home</a><br>
+            <a [routerLink]="['Customer/Add']">Customer</a><br>
+            <a [routerLink]="['Supplier/Add']">Supplier</a><br>
+        </td>
+        <td>
+            <div>
+                <router-outlet></router-outlet>
+            </div>
+        </td>
+    </tr>
+    <tr bordercolor="red"><td colspan="2"></td></tr>
+    <tr align="center">
+        <td colspan="2">@Copyright Questpond 2019-2020</td>
+    </tr>
+</table>
